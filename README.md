@@ -1,5 +1,4 @@
-# Cours BD5 : Nouveaux paradigmes de base de données
-# Parcours : Développeur IA - IUT La Rochelle 2024-2025
+# Cours BD5 : BD NoSQL
 
 ## Plan du cours
 
@@ -25,11 +24,9 @@
 
 L'évaluation du cours BD5 est répartie comme suit :  
 
-- **TPs notés** : 30%  
-  - Réalisation de travaux pratiques en classe.  
-- **Learning Paths & Mini-projets** : 20%  
-  - Activités menées pendant les séances d'autonomie pour approfondir les notions vues en cours.  
-- **Examen pratique de fin de formation** : 50%  
+- **TPs notés** : 40%  
+  - Réalisation de travaux pratiques en classe.   
+- **Examen pratique de fin de formation** : 60%  
   - Une évaluation pratique qui couvre l’ensemble des concepts et technologies abordés.  
 
 ---
