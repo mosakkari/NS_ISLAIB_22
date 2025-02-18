@@ -1,4 +1,4 @@
-# Cours BD5 : BD NoSQL
+# Cours BD NoSQL
 
 ## Plan du cours
 
